@@ -12,3 +12,5 @@ This will start the database so your app has movies to query. The database runs 
 
 This starts up the actual app in the development mode.
 Open http://localhost:3000 to view it in the browser.
+
+Live demo : https://react-app-for-movie-search.netlify.app
